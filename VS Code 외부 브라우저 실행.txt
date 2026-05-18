@@ -1,0 +1,2 @@
+"workbench.browser.openLocalhostLinks": false,
+    "livePreview.useIntegratedBrowser": false

@@ -1,0 +1,52 @@
+"리액트 기본 코드": {
+	"prefix": "main",
+	"body": [
+		"import { createRoot } from 'react-dom/client';",
+		"import React from 'react';",
+		"",
+		"//$1",
+		"",
+		"createRoot(document.getElementById('root')).render(app);"
+	],
+	"description": "리액트 기본 코드"
+	}
+
+
+
+
+====================================================
+
+
+
+
+
+
+
+"리액트 수업용": {
+		"prefix": "main",
+		"body": [
+			"import { createRoot } from 'react-dom/client';",
+			"import React from 'react';",
+			"",
+			"//$1",
+			"",
+			"function My() {",
+			"",
+			"}",
+			"",
+			"createRoot(document.getElementById('root')).render(<My/>);"
+		],
+		"description": "리액트 수업용"
+	}
+
+
+
+
+
+
+
+
+
+
+
+===================================================
