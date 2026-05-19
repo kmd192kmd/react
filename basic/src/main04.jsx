@@ -30,7 +30,10 @@ function My() {
             <div>제 이름은 {name}이고, 나이는 {age * 2}세입니다.</div>
             <div>제 이름은 {johnDoe.name}이고, 나이는 {johnDoe.age}세입니다.</div>
             <div>1 + 1 = {sum(1, 1)}</div>
-           
+            {/* 
+            <div>함수: { function aaa() {} }</div>
+            <div>로그: { console.log('react') }</div> 
+            */}
         </>
     );
 
