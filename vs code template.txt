@@ -50,3 +50,43 @@
 
 
 ===================================================
+
+
+
+
+
+
+
+
+"리액트 템플릿": {
+  "prefix": "main",
+  "body": [
+    "import React from 'react';",
+    "import { createRoot } from 'react-dom/client';",
+    "import { useState } from 'react'",
+    "",
+    "//$1",
+    "",
+    "function $2() {",
+    "",
+    "  return (",
+    "    <>",
+    "      <h2>$3</h2>",
+    "      ",
+    "    </>",
+    "  );",
+    "}",
+    "",
+    "createRoot(document.getElementById('root')).render(<$2 />);"
+  ],
+  "description": "리액트 템플릿"
+}
+
+
+
+
+
+
+
+
+
